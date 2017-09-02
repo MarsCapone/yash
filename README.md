@@ -10,3 +10,5 @@ Parslet is used to parse commands.
 
 There is also a facility for custom commands by extending the `BuiltinCommand` 
 class and adding instances to the `CommandHandler`.
+
+To run the shell, just execute `./shell`.
